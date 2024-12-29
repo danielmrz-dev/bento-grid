@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url(./assets/fonts/static/DMSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'DM Sans Medium';
+    src: url(./assets/fonts/static/DMSans-Medium.ttf);
+}
+@font-face {
+    font-family: 'DM Sans Medium Italic';
+    src: url(./assets/fonts/static/DMSans-MediumItalic.ttf);
+}
+
+body {
+    background-color: #dbdbdb3b;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+    }
+}
