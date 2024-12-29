@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/bento-grid-build-with-angular-tailwind-RQ02kiAZM7)
+- Live Site URL: [Link](https://bento-grid-six-tau.vercel.app/)
 
 ## My process
 
@@ -51,5 +51,5 @@ I learnt a little bit more about how to work with irregular grids containing row
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- LinkedIn - [Daniel Mariz](https://www.linkedin.com/in/danielmrz-dev/)
+- Frontend Mentor - [@danielmrz-dev](https://www.frontendmentor.io/profile/danielmrz-dev)
